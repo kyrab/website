@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Hi, my name is Kyra, pronounced like Keera (or Kira, or Keira, or...you get the gist). This website is built with Jekyll and Mediumish template for Jekyll. For now, it's for demonstration purposes, with no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
