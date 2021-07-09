@@ -1,9 +1,9 @@
 # Site
-name: "Kyra"
+name: "Kyra's Website"
 title: "Kyra's Website"
 description: "Data lover, learner, traveler."
-logo: 'assets/images/klogo.png'
-favicon: 'assets/images/klogo.png'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 google_analytics: ''
 disqus: ''
@@ -24,8 +24,7 @@ authors:
   kyra:
     name: Kyra
     display_name: Kyra    
-    avatar: 'assets/images/klogo.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    avatar: 'assets/images/logo.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     description: "Data lover, learner, traveler."
