@@ -1,6 +1,6 @@
 # Site
-name: "Kyra's Website"
-title: "Kyra's Website"
+name: "Kyra's Blog"
+title: "Kyra's Blog"
 description: "Data lover, learner, traveler."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -26,7 +26,7 @@ authors:
     display_name: Kyra    
     avatar: 'assets/images/logo.png'
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://kyrab.githib.io/
     description: "Data lover, learner, traveler."
 
 # Plugins
