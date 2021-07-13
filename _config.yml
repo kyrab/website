@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 google_analytics: ''
-disqus: ''
+disqus: 'kyrab2'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/

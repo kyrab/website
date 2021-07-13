@@ -8,7 +8,7 @@ description: "First post; things to keep in mind post-acceptance."
 featured: true
 toc: true
 beforetoc: "The first few days after I confirmed my status as a Spain ETA finalist, I barely received any information. And then, I was hit with information OVERLOAD. Perhaps I was not expecting to be awarded the grant so I did not really put much thought into what the follow-up steps might be, but either way, it would have been nice to have a short guide that directed my priorities."
-comments: false
+comments: true
 ---
 
 Here are four things that you should expect to deal with as you begin the Fulbright Spain grantee pre-departure experience!
@@ -27,7 +27,7 @@ For the 2021-2022 cohort, we needed to schedule our visa appointment between mid
 
 I quickly found out that each of the above points come at a cost; namely, a cost that the Fulbright Program does not cover. With respect to applying for and verifying my background checks, I paid slightly less than $100 total. While $40 of that could have been saved if I had known I needed one specific fingerprinting service over another (oops), it is not an insignificant amount either way.
 
-With respect to visa appointments, where you apply depends on where your permanent residence is. For example, if you live in Maine, you will need to schedule your visa appointment with the Consulate General of Spain in Boston. Even during ``COVID times," many consulates required in-person appointments--as opposed to sending in your application materials via mail. So, another out-of-pocket cost would be the cost to travel to and from your specific consulate. While I am fortunate enough to live within an hour of mine, I can imagine many situations that would require a flight, roadtrip, and/or overnight stay.
+With respect to visa appointments, where you apply depends on where your permanent residence is. For example, if you live in Maine, you will need to schedule your visa appointment with the Consulate General of Spain in Boston. Even during "COVID times," many consulates required in-person appointments--as opposed to sending in your application materials via mail. So, another out-of-pocket cost would be the cost to travel to and from your specific consulate. While I am fortunate enough to live within an hour of mine, I can imagine many situations that would require a flight, roadtrip, and/or overnight stay.
 
 ## Documentation
 
