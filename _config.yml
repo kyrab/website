@@ -1,7 +1,7 @@
 # Site
 name: "Kyra's Blog"
 title: "Kyra's Blog"
-description: "My digital diary"
+description: "My digital diary!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
