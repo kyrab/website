@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 google_analytics: ''
 disqus: 'kyrab2'
-mailchimp-list: 'http://eepurl.com/hE1Aw5'
+mailchimp-list: 'https://eepurl.com/hE1Aw5'
 include: ["_pages"]
 permalink: /:title/
 

@@ -29,7 +29,7 @@ As we were all college students and only had two days (specifically, 36 hours), 
 11-11:30am: walk around the plaza where the Catedral and Palau are located, take pictures, and engage with local vendors.
 
 11:30am-12:15pm: [Catedral de Mallorca](https://catedraldemallorca.org/en/).
-- One person in my group did not want to walk through yet *another* European church, so I might have rushed a little more than usual so they did not have to wait so long in the heat outside.
+- One person in my group did not want to walk through yet *another* European church, so I rushed a little more than usual so they did not have to wait so long in the heat outside.
 
 12:30-1:15pm: [Palau de l'Almudaina](https://catedraldemallorca.org/en/).
 - A little emptier than I was anticipating (i.e., the only furniture consists of rugs), but the courtyard, right next to the Catedral, was stunning.
@@ -42,7 +42,7 @@ As we were all college students and only had two days (specifically, 36 hours), 
 5-8pm: head back to the hotel and freshen up for the evening.
 
 8-8:30pm: wander along and around Puerto de Palma.
-- My group did this on the way to looking for a place to eat. I grew up on the east coast, so I loved seeing all of the sailboats.
+- My group did this on the way to looking for a place to eat. I grew up on the east coast, so I loved seeing all of the sailboats!
 
 8:30-10pm: dinner.
 - We ended up going to an excellent Italian restaurant that I unfortunately cannot recall the name of for the life of me. However, I distinctly remember the waiter teasing me for wanting marinara with my gnocchi instead of pesto, the way you are "supposed" to eat it. As someone who is half-Italian, it broke my heart to learn my tongue had developed to like an incorrect form of Italian food.
@@ -68,4 +68,4 @@ As we were all college students and only had two days (specifically, 36 hours), 
 
 ## Closing Remarks
 
-Since this was such a short trip, I was able to add very specific time intervals during which I did everything, so maybe this post ended up being a little longer than expected. Oh well!
+Since this was such a short trip, I was able to add very specific time intervals during which I did everything, so this post ended up being a little longer than expected. Oh well!
