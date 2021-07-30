@@ -57,9 +57,9 @@ As we were all college students and only had two days (specifically, 36 hours), 
 3:30-6pm: [Platja de Palma](https://www.tripadvisor.com/Attraction_Review-g187463-d190700-Reviews-Platja_de_Palma-Palma_de_Mallorca_Majorca_Balearic_Islands.html).
 - Being in the sun for four hours is really draining, so the only remedy is to spend even more time in the sun! Just kidding, we found a palm tree in the back and laid underneath. This was right next to where our catamaran tour departed/returned.
 
-6:15-6:45pm: grab an *ensaimada*, the famous Mallorcan puff pastry.
+6:15-6:45pm: grab an *ensaimada*, the famous Mallorcan puff pastry (see image below).
 
-<img src="/assets/images/2021-07-30a.jpg" alt="An ensaimada" width="200" height="225"/>
+![](/assets/images/2021-07-30a.jpg)
 
 7pm: head to the airport.
 - While waiting for our delayed flight home (we did not end up departing until 10:30pm, even though we were scheduled for 9pm), I discovered that the McDonald's Spain *croquetas* are my guilty pleasure.
