@@ -9,9 +9,9 @@ toc: true
 comments: true
 ---
 
-## Introduction
+For my first sample itinerary post, we'll keep things short and sweet with a weekend trip!
 
-For my first sample itinerary post, we'll keep things short and sweet!
+## Introduction
 
 For context, I studied abroad the summer after my first year of college in Valencia, Spain (June-August 2018). During our first free weekend at the beginning of July, a few friends and I took a trip to Palma de Mallorca, hastily planned by yours truly. Mallorca/Majorca is one of the islands that make up the Balearic Islands, an autonomous community of Spain located off of the mainland's eastern coast. You might be familiar with another one of the Balearic Islands: the infamous Ibiza.
 
@@ -59,7 +59,7 @@ As we were all college students and only had two days (specifically, 36 hours), 
 
 6:15-6:45pm: grab an *ensaimada*, the famous Mallorcan puff pastry.
 
-![](/assets/images/2021-07-30a.jpg)
+<img src="/assets/images/2021-07-30a.jpg" alt="An ensaimada" width="200" height="225"/>
 
 7pm: head to the airport.
 - While waiting for our delayed flight home (we did not end up departing until 10:30pm, even though we were scheduled for 9pm), I discovered that the McDonald's Spain *croquetas* are my guilty pleasure.
