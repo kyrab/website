@@ -24,9 +24,9 @@ jQuery(document).ready(function($){
     $(document).scroll(function () {
         var y = $(this).scrollTop();
         if (y > 400) {
-            // $('.alertbar').fadeIn();
+            $('.alertbar').fadeIn();
         } else {
-            // $('.alertbar').fadeOut();
+            $('.alertbar').fadeOut();
         }
     });
 
