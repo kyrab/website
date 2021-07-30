@@ -54,7 +54,9 @@ As we were all college students and only had two days (specifically, 36 hours), 
 10am-2pm: catamaran tour.
 - A lovely way to see the island and get away from the crowds, as this itinerary is definitely on the touristy side. On the tour I booked, we got free drinks, snacks, and snorkel gear. It was not advertised as a small tour but we had lots of space to ourselves. When I cannot book directly with a tour company itself, my favorite place to go is [Viator](https://www.viator.com/).
 
-3:30-6pm: [Platja de Palma](https://www.tripadvisor.com/Attraction_Review-g187463-d190700-Reviews-Platja_de_Palma-Palma_de_Mallorca_Majorca_Balearic_Islands.html).
+2-4pm: lunch.
+
+4-6pm: [Platja de Palma](https://www.tripadvisor.com/Attraction_Review-g187463-d190700-Reviews-Platja_de_Palma-Palma_de_Mallorca_Majorca_Balearic_Islands.html).
 - Being in the sun for four hours is really draining, so the only remedy is to spend even more time in the sun! Just kidding, we found a palm tree in the back and laid underneath. This was right next to where our catamaran tour departed/returned.
 
 6:15-6:45pm: grab an *ensaimada*, the famous Mallorcan puff pastry (see image below).
