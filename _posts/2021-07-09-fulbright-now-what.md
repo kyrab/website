@@ -7,7 +7,7 @@ image: assets/images/2021-07-09.jpg
 description: "First post; things to keep in mind post-acceptance."
 featured: true
 toc: true
-beforetoc: "The first few days after I confirmed my status as a Spain ETA finalist, I barely received any information. And then, I was hit with information OVERLOAD. Perhaps I was not expecting to be awarded the grant so I did not really put much thought into what the follow-up steps might be, but either way, it would have been nice to have a short guide that directed my priorities."
+beforetoc: "The first few days after I confirmed my status as a Spain English Teaching Assistant finalist, I barely received any information. And then, I was hit with information OVERLOAD. Perhaps I was not expecting to be awarded the grant so I did not really put much thought into what the follow-up steps might be, but either way, it would have been nice to have a short guide that directed my priorities."
 comments: true
 ---
 
