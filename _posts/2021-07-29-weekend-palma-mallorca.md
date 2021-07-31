@@ -29,15 +29,15 @@ As we were all college students and only had two days (specifically, 36 hours), 
 11-11:30am: walk around the plaza where the Catedral and Palau are located, take pictures, and engage with local vendors.
 
 11:30am-12:15pm: [Catedral de Mallorca](https://catedraldemallorca.org/en/).
-- One person in my group did not want to walk through yet *another* European church, so I rushed a little more than usual so they did not have to wait so long in the heat outside.
+- One person in my group did not want to walk through yet *another* European church, so I rushed a little more than usual so they did not have to wait so long in the heat outside. If you look at the website, there are additional offerings beyond the base admission, such as tours and terrace access.
 
-12:30-1:15pm: [Palau de l'Almudaina](https://catedraldemallorca.org/en/).
+12:30-1:15pm: [Palau de l'Almudaina](https://entradas.patrimonionacional.es/en-GB/informacion-recinto/13/palacio-almudaina).
 - A little emptier than I was anticipating (i.e., the only furniture consists of rugs), but the courtyard, right next to the Catedral, was stunning.
 
 1:15-2pm: walk down the main avenue on your way to the hotel, potentially souvenir shopping along the way.
 
 3-5pm: [Platja d'Illetes](https://www.tripadvisor.com/Attraction_Review-g1905488-d4345235-Reviews-Platja_d_Illetes-Illetes_Calvia_Majorca_Balearic_Islands.html).
-- Very small and quite crowded, but my group of four was still able to find a good amount of space. There are multiple places where you can get drinks and snacks. I had my first shandy ever there, and it was quite delicious.
+- Very small and quite crowded, but my group of four was still able to find a good amount of space. There are multiple places where you can get drinks and snacks. I had my first shandy ever there, and it was *quite* delicious.
 
 5-8pm: head back to the hotel and freshen up for the evening.
 
@@ -52,7 +52,7 @@ As we were all college students and only had two days (specifically, 36 hours), 
 ### Day 2 (Sunday)
 
 10am-2pm: catamaran tour.
-- A lovely way to see the island and get away from the crowds, as this itinerary is definitely on the touristy side. On the tour I booked, we got free drinks, snacks, and snorkel gear. It was not advertised as a small tour but we had lots of space to ourselves. When I cannot book directly with a tour company itself, my favorite place to go is [Viator](https://www.viator.com/).
+- A lovely way to see the island and get away from the crowds, as this itinerary is definitely on the touristy side. On the tour I booked, we got free drinks, snacks, and snorkel gear. While it was not a small tour, we had lots of space to ourselves. When I cannot book directly with a tour company itself, my favorite place to go is [Viator](https://www.viator.com/).
 
 2-4pm: lunch.
 
@@ -64,8 +64,8 @@ As we were all college students and only had two days (specifically, 36 hours), 
 ![](/assets/images/2021-07-30a.jpg)
 
 7pm: head to the airport.
-- While waiting for our delayed flight home (we did not end up departing until 10:30pm, even though we were scheduled for 9pm), I discovered that the McDonald's Spain *croquetas* are my guilty pleasure.
+- While waiting for our delayed flight home (we did not end up departing until 10:30pm, even though we were scheduled for 9pm), I discovered that the McDonald's Spain *croquetas* are my guilty pleasure!
 
 ## Closing Remarks
 
-Since this was such a short trip, I was able to add very specific time intervals during which I did everything, so this post ended up being a little longer than expected. Oh well!
+There you have it: an active yet relaxing trip to Palma de Mallorca. Since this did span such a short period of time, I was able to add very specific time intervals during which I did everything, so this post ended up being a little longer than expected. Oh well!
