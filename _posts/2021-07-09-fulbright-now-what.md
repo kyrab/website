@@ -37,4 +37,4 @@ There is a lot of it. Like I mentioned earlier, some documents are necessary for
 Hopefully you found this helpful! And if reading this made you a tad stressed, my apologies! Please do not worry too much. The Fulbright Spain commission is a great resource to reach out to. Also, you can take comfort in the fact that every other grantee is going through the same process as you are. Everything will work out just fine!
 
 
-_Note: views are my own and do not reflect those of The Fulbright Program or Fulbright España._
+_Note: views are my own and do not reflect those of The Fulbright Program or La Comisión Fulbright de España._
