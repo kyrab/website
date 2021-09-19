@@ -51,4 +51,6 @@ Below is the order in which my friends and I did things. We took a 10:15am train
 
 This is definitely a jam-packed, walking-heavy day, but the only time I was running or otherwise felt pressed for time was getting to my track in Madrid Chamartín! To avoid my situation, get to the train station 15-20 minutes before departure. Finding a place to eat without a reservation was also a tad demoralizing, but it did not delay our plans at all. Between the train tickets, food, and admission costs, I only spent 55 euros on the entire day. Best. First. Day. Trip. Ever. So, what are you waiting for? Grab some comfy shoes and hop on the next train to Segovia!
 
+(PS: Shoutout to Alisha, Emma, and Lydia for helping me think of tips to add!)
+
 _Note: views are my own and do not reflect those of The Fulbright Program or La Comisión Fulbright de España._
