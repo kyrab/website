@@ -11,7 +11,7 @@ comments: true
 
 ## Introduction
 
-Yesterday, I took a day trip to Segovia with three friends. This was the first excursion I have planned so far since arriving in Spain, so I really wanted to start off on a good note with respect to the destination and the planning. Unless my friends were lying to me, I think this was a success! Not that outside validation is always necessary, but it can be nice to have :).
+Yesterday, I took a day trip to Segovia with three friends. This was the first excursion I planned since arriving in Spain, so I really wanted to start off on a good note with respect to both the destination and the planning. Unless my friends were lying to me, I think this was a success! Not that outside validation is always necessary, but it can be nice to have :).
 
 From the moment I walked into the city center, I was in love. Segovia is quaint, rich in history/culture, and absolutely beautiful. I could not stop imagining how amazing life would be if I got to retire in a place like this. If you have the opportunity to make a pit stop at this city, you _must_.
 
