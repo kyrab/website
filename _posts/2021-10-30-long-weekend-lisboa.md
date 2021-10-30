@@ -19,7 +19,7 @@ I will note that my mode of transportation (overnight bus, the first departing F
 
 ### Day 1 (Saturday): A Little Bit of Everything
 
-#### If arriving in the early morning (a là overnight bus):
+#### If arriving in the early morning (a là overnight bus)
 
 30 minutes: Uber from the bus station to accommodations.
 - While in Madrid we have multiple ride-sharing apps such as Uber, Cabify, and FREE NOW, it seems that in Lisboa, Uber is the only option. It is always so interesting to see how different countries have handled the rise of Uber; some have maintained competition while others have fully embraced it.
@@ -33,7 +33,7 @@ I will note that my mode of transportation (overnight bus, the first departing F
 30 minutes: take Tram 28 back to accommodations.
 - I really enjoyed this ride because it was _completely_ empty.
 
-#### If arriving at a more reasonable hour (aka 9:30am):
+#### If arriving at a more reasonable hour (aka 9:30am)
 
 30 minutes: breakfast.
 
