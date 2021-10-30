@@ -19,7 +19,7 @@ From the moment I walked into the city center, I was in love. Segovia is quaint,
 
 Below is the order in which my friends and I did things. We took a 10:15am train there and a 6:22pm train back. Time estimates are based on my experience.
 
-30 minutes: _Ave_ train from the Madrid Chamartín train station to Segovia Guiomar.
+30 minutes: _AVE_ train from the Madrid Chamartín train station to Segovia Guiomar.
 - How amazing is it that they have trains that get there in half an hour?! Just be aware when booking your tickets because there is also a regional train that takes one hour and 40 minutes.
 
 15 minutes: bus ride from the Segovia train station to the city center.
@@ -45,12 +45,12 @@ Below is the order in which my friends and I did things. We took a 10:15am train
 15 minutes: bus ride from the city center to the Segovia train station.
 - Make sure you know the bus schedule ahead of time. They have it posted in the information center right by the aqueducts. If the timing does not work out, be prepared to hail a taxi the traditional way--none of our apps worked in Segovia.
 
-30 minutes: _Ave_ train back to Madrid Chamartín.
+30 minutes: _AVE_ train back to Madrid Chamartín.
 
 ## Closing Remarks
 
 This is definitely a jam-packed, walking-heavy day, but the only time I was running or otherwise felt pressed for time was getting to my track in Madrid Chamartín! To avoid my situation, get to the train station 15-20 minutes before departure. Finding a place to eat without a reservation was also a tad demoralizing, but it did not delay our plans at all. Between the train tickets, food, and admission costs, I only spent 55 euros on the entire day. Best. First. Day. Trip. Ever. So, what are you waiting for? Grab some comfy shoes and hop on the next train to Segovia!
 
-(PS: Shoutout to Alisha, Emma, and Lydia for helping me think of tips to add!)
+(PS: Shoutout to Alisha, Emma, and [Lydia](https://adventuresofashyfulbrighter.wordpress.com/) for helping me think of tips to add!)
 
 _Note: views are my own and do not reflect those of The Fulbright Program or La Comisión Fulbright de España._
