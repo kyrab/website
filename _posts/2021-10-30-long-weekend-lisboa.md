@@ -54,7 +54,8 @@ I will note that my mode of transportation (overnight bus, the first departing F
 - My friends and I wanted something on a faster side, so we went to [Pao Pao Queijo Queijo](https://www.tripadvisor.com/Restaurant_Review-g189158-d2324445-Reviews-Pao_Pao_Queijo_Queijo-Lisbon_Lisbon_District_Central_Portugal.html), right in Belém. It is reasonably priced and delicious. Between all of their sandwich, wrap, salad, and combo plate options, there are over 100 items to choose from. So, if you see a line, do not let that deter you -- you will need that time to decide what to order!
 
 15 minutes: [Pasteis de Belém](https://pasteisdebelem.pt/en/).
-- When in Lisboa, the only excuse to not trying a _pasteis de nata_ is if you have an allergy. I normally try to avoid dairy, and am not a sweets person in general, but this was one of the best things I have eaten in a long time. It is normally eaten for breakfast, so even though this is the most famous place (and rightfully so) to buy a pasteis de nata, there was no line!
+- When in Lisboa, the only excuse to not trying a _pasteis de nata_ is if you have an allergy. I normally try to avoid dairy, and am not a sweets person in general, but this was one of the best things I have eaten in a long time.
+- TIP: go in the afternoon as a post-lunch dessert like my friends and I did. It is normally eaten for breakfast, so even though this is the most famous place (and rightfully so) to buy a pasteis de nata, there was no line!
 - Low risk, high reward: you can buy one for a euro and some change.
 
 1.5 hours: "independent exploration time."
@@ -86,15 +87,15 @@ I started the first item at 9am, while some friends who were recovering from the
 20 minutes: get to train station.
 
 45 minutes: train from Lisboa Rossio to Sintra.
-- Beware: if you do not have a Lisboa card, you might want to get there 20-30 minutes before your desired departure time, because the ticket line can get long. Even if you do have a Lisboa card, you might want to get there 10 minutes early so that you can get seats together with your group on the train.
+- TIP: if you do not have a Lisboa card, you might want to get there 20-30 minutes before your desired departure time, because the ticket line can get long. Even if you do have a Lisboa card, you might want to get there 10 minutes early so that you can get seats together with your group on the train.
 
 1.5 hours: walk to Sintra historic city center.
 - Once you're there, explore the streets! There are a bunch of cute shops and cafés. This is also where the National Palace of Sintra is. I've read lots of reviews saying it's not 100% worth it to go inside, but this way, you can at least get a view of the outside.
 
 30 minutes: ride to Palácio da Pena.
-- If possible, take a tuk-tuk! You feel like you are in a real-life version of Mario Kart racing up the streets; in fact, my friends' tuk-tuk driver actually pretended they were in a Mario Kart race, which I think is adorable.
+- TIP: if possible, take a tuk-tuk. You feel like you are in a real-life version of Mario Kart racing up the streets; in fact, my friends' tuk-tuk driver actually pretended they were in a Mario Kart race, which I think is adorable.
 
-2 hours: [Palácio da Peña](https://www.parquesdesintra.pt/en/parks-monuments/park-and-national-palace-of-pena/).
+2 hours: [Palácio da Pena](https://www.parquesdesintra.pt/en/parks-monuments/park-and-national-palace-of-pena/).
 - So colorful, so cool, and so crowded (at least if you are a part of the pre-lunch crowd).
 - I recommend buying your ticket online in advance. However, it does require a bit of planning, as you have to specify what time interval you would like to tour the interior of the palace (at least at the time that this article was posted). We bought ours on the train ride over.
 
@@ -106,10 +107,10 @@ I started the first item at 9am, while some friends who were recovering from the
 
 45 minutes: [Castelo dos Mouros](https://www.parquesdesintra.pt/en/parks-monuments/the-moorish-castle/).
 - Also known as "The Great Wall of Portugal". Since I am unsure if I will ever get the chance to visit the Great Wall of China, I _had_ to go.
-- Me being me, I of course wanted to climb up to the highest points of the wall, which is either endpoint. But the left endpoint was simply not worth it -- my friends and I were attacked by giant swarms of flies! I am not sure if they are there all the time, because no one warned us at all. It was literally a nightmare scenario, and I can't believe I survived. Flies. Were. Everywhere.
+- Me being me, I of course wanted to climb up to the highest points of the wall, which is either endpoint. But the left endpoint was simply not worth it -- my friends and I were attacked by giant swarms of flies! I am not sure if they are there all the time, because no one warned us at all. It was literally a nightmare scenario, and I can't believe I survived. Flies. Were. Everywhere. On the ground, in the air. Everywhere.
 
 30 minutes: ride to Monserrate from the Castelo.
-- We also took a tuk-tuk for this leg!
+- We also took a tuk-tuk for this leg.
 
 1.5 hours: [Monserrate](https://www.parquesdesintra.pt/en/parks-monuments/park-and-palace-of-monserrate/).
 - This was honestly probably my favorite place I visited in Sintra. It is usually only on itineraries for if you are spending more than one day in Sintra, but I am so happy that I was able to fit it in. I think it might be because it is a lot further away than the other attractions.
@@ -159,13 +160,17 @@ I started the first item at 10am and ended around 7:30pm.
 - This is something that I went on mainly because I had access to the Lisboa Card. It is quite expensive otherwise. It leads to some cool views of the city that are different from the miradouros because here, you are right in the center of it all.
 
 1 hour: wander around Chiado.
-- Definitely a more commercialized area with popular European stores like Pull & Bear, Tezeenis, Muji, etc. Even so, I enjoyed popping in and also listening to street performers and general hustle and bustle of the area.
-- I even found a roasted chestnut cart! I bought half a dozen to have as a snack. My family always makes these around Christmas time, so it was a nice reminder of home :).
+- Definitely a more commercialized area with popular European stores like Pull & Bear, Tezenis, Muji, etc. Even so, I enjoyed popping in and also listening to street performers and general hustle and bustle of the area.
+- I even found a roasted chestnut cart! I bought half a dozen for 50 cents to have as a snack. My family always makes these around Christmas time, so it was a nice reminder of home :).
 
 ## Closing Remarks
 
 I was in Lisboa for 3 days and 2 nights, and I believe this is the minimum amount of time one should spend here. In this time, I was able to explore the main neighborhoods and attractions, check out the nightlife, and make my way out to some nearby cities. If I ever come back, I would love to make a visit to the [Museu Nacional de Azulejo](http://www.museudoazulejo.gov.pt/en-GB/Default.aspx), but since I was able to see these traditional _azulejos_ (tiles) by walking around the city, it is certainly not the end of the world if I am unable to return to Lisboa.
 
+While I feel that the main value of my sample itineraries comes from sharing the amount of time each attraction took as opposed to the exact order of events, I do feel like Saturday flowed especially well. Belém is located out west, so throughout the day we continued further and further east until we came back to the city center.
+
 October was also a fantastic time to go. It is still super warm during the day, does not get too chilly at night, and there are fewer tourists than there are during the summer months.
 
 A few other things to note: almost all museums are closed on Mondays and nightlife does not exist on Sundays. Perhaps this is common sense, but I was quite surprised how little there was.
+
+_Note: views are my own and do not reflect those of The Fulbright Program or La Comisión Fulbright de España._
