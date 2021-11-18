@@ -13,7 +13,7 @@ Alright, so I think I understand why people post less and less on their blogs as
 
 ## Introduction
 
-Cuenca is a city in the autonomous community of Spain called Castilla-La Mancha. While it is not the capital of Castilla-La Mancha (Toledo holds that title), there is quite a lot to see and do. Perhaps its biggest claim to fame are the _casas colgantes/colgadas_ (hanging houses), which have been there since the 15th century. While you could spend hours staring at them from afar (I almost did), do not forget to check out the other incredible things this city has to offer.
+Cuenca is a city in the autonomous community of Spain called Castilla-La Mancha. While it is not the biggest nor most well-known city of Castilla-La Mancha, there is quite a lot to see and do. Perhaps its biggest claim to fame are the _casas colgantes/colgadas_ (hanging houses), which have been there since the 15th century. While you could spend hours staring at them from afar (I almost did), do not forget to check out the other incredible things this city has to offer.
 
 ## Itinerary
 
