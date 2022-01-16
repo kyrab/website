@@ -37,3 +37,5 @@ Despite everything that is going on with Omicron right now, I was lucky enough t
 5. **Daily walks.** Going on a walk in Madrid is like a treasure hunt; you never know what you will stumble upon. For example, today I found a recently-opened playground complex, and last week I found that the holiday stalls were still open in Plaza de España and got myself some churros to go. Sometimes I'll stop inside a new café, _farmacia_ (pharmacy) or _alimentación_ (independently-owned snack shop similar to a gas station store) just to see how their offerings differ. (For context, there is usually one per block or two.) Also, even in the winter, the weather is mild and the sun feels as amazing as ever.
 
 _¡Hasta la proxima!_
+
+_Note: views are my own and do not reflect those of The Fulbright Program or La Comisión Fulbright de España._
