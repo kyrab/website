@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Know What You Got Till It's Gone"
 author: kyra
 categories: [ Fulbright ]
-image: assets/images/2022-01-16.jpg
+image: assets/images/testing.jpg
 description: "Country comparisons"
 featured: false
 toc: false
