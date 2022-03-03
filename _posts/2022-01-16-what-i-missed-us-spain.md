@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Know What You Got Till It's Gone"
 author: kyra
 categories: [ Fulbright ]
-image: assets/images/testing.jpg
+image: assets/images/2022-01-16.jpg
 description: "Country comparisons"
 featured: false
 toc: false
@@ -24,6 +24,8 @@ Despite everything that is going on with Omicron right now, I was lucky enough t
 
 5. **American football.** It is so nice being able to spend all day Sunday watching football games. The ultimate lazy day. My family made a fantasy league to try and keep me in the loop while I have been abroad, but nothing compares to watching the games unfold live. Pulling an all-nighter to watch the Super Bowl, probably alone, is going to be a unique experience.
 
+6. **Single-stream recycling.** Not having to think about separating/sorting your recycling is lovely. And not knowing which bin to put a cardboard-covered plastic container in is mildly stressful, because I don't want to screw up the whole system by making the wrong decision. Why spend 30 seconds making a decision when you can spend 30 seconds eating an additional cookie? All I can say is that I hope no matter what recycling system is in place, it is legit. (Yes, I am thinking about how my high school used to toss the recycling in with the trash at the end of the day.)
+
 ## Things I Missed About Madrid
 
 1. **(Clean) public transportation.** Something that makes the United States unique is our intense desire for independence and autonomy, which is why I believe we have such an extensive road system but not so much an extensive rail system. While I understand the joy people get from driving, I personally prefer taking public transportation or other methods that do not require me to be at the wheel so that I have the ability to multitask. Madrid's public transportation system and its connections to other cities via bus and train are incredible. Stops and stations are conveniently located, reliable, clean, and also display clear messaging (such as minutes until arrival or departure). With regards to cleanliness, I am literally always seeing workers sweeping the metro stairs. I can't say I have ever seen someone do that in the NYC metro.
@@ -34,7 +36,9 @@ Despite everything that is going on with Omicron right now, I was lucky enough t
 
 4. **Being surrounded by Spanish.** I think it is so important to be able to communicate with as many people as possible, but as someone who grew up only speaking English, picking up additional languages is not as easy for me. The only way I am able to progress is by being completely immersed in a society that speaks the target language. In Madrid, I learn something new about _castellano_ every day.
 
-5. **Daily walks.** Going on a walk in Madrid is like a treasure hunt; you never know what you will stumble upon. For example, today I found a recently-opened playground complex, and last week I found that the holiday stalls were still open in Plaza de España and got myself some churros to go. Sometimes I'll stop inside a new café, _farmacia_ (pharmacy) or _alimentación_ (independently-owned snack shop similar to a gas station store) just to see how their offerings differ. (For context, there is usually one per block or two.) Also, even in the winter, the weather is mild and the sun feels as amazing as ever.
+5. **Daily walks.** Going on a walk in Madrid is like a treasure hunt; you never know what you will stumble upon. For example, today I found a recently-opened playground complex, and last week I found that the holiday stalls were still open in Plaza de España and got myself some churros to go. Sometimes I'll stop inside a new café, _farmacia_ (pharmacy) or _alimentación_ (independently-owned snack shop similar to a gas station store) just to see how their offerings differ. (For context, there is usually one per block or two.) Also, even in the winter, the weather is mild and the sun feels as amazing as ever. Not sure how many cities I have an interest in living in can say the same.
+
+6. **Bread.** Bread used to be my least favorite carb by a long shot compared to rice, potatoes, and pasta/noodles. But here, bread consistently has only 4 ingredients, has no preservatives, is baked fresh daily (I seldom purchase a non-warm bar), and even the 100% whole wheat options are absolutely delicious. So, I guess you could say I am in a bit of a carb-ranking crisis right now.
 
 _¡Hasta la proxima!_
 
